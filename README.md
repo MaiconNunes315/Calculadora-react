@@ -5,7 +5,7 @@
 ## Download
 
 ```sh
-https://github.com/MaiconNunes315/calculadora-react.git
+https://github.com/MaiconNunes315/Calculadora-react.git
 ```
   
 ##Inicie o projeto(para instalar todos o repositórios)
